@@ -17,5 +17,10 @@
 // String, integer, float, boolean, array, object, null
 
 // contoh penggunaan array
-$anggota = array("Andi","Budi","Joni");
+// $anggota = array("Andi","Budi","Joni");
+
+// strlen() untuk menghitung jumlah karakter
+
+$kalimat = "Nama saya adalah";
+echo strlen($kalimat);
 ?>
