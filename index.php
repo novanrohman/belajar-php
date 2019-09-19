@@ -20,7 +20,10 @@
 // $anggota = array("Andi","Budi","Joni");
 
 // strlen() untuk menghitung jumlah karakter
+// $kalimat = "Nama saya adalah";
+// echo strlen($kalimat);
 
+// str_word_count() untuk menghitung jumlah kalimat
 $kalimat = "Nama saya adalah";
-echo strlen($kalimat);
+echo str_word_count($kalimat);
 ?>
