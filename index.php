@@ -4,12 +4,18 @@
 
 
 // Penggunana Variabel pada PHP
-$nama = "Novan rohman";
-$kelas = "XII-RPL";
+// $nama = "Novan rohman";
+// $kelas = "XII-RPL";
 
-echo $nama;
-echo "</br>";
-echo $kelas;
-echo "</br>";
-echo "hai, perkenalkan nama saya ".$nama." saya dari kelas " .$kelas;
+// echo $nama;
+// echo "</br>";
+// echo $kelas;
+// echo "</br>";
+// echo "hai, perkenalkan nama saya ".$nama." saya dari kelas " .$kelas;
+
+// tipe data pada php
+// String, integer, float, boolean, array, object, null
+
+// contoh penggunaan array
+$anggota = array("Andi","Budi","Joni");
 ?>
