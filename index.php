@@ -28,6 +28,10 @@
 // echo str_word_count($kalimat);
 
 // Membalik kalimat dengan strrev()
+// $kalimat = "Nama saya adalah";
+// echo strrev($kalimat);
+
+// replace kalimat dengan str_replace()
 $kalimat = "Nama saya adalah";
-echo strrev($kalimat);
+echo str_replace("Nama","Hai",$kalimat);
 ?>
