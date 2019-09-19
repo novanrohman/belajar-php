@@ -34,5 +34,4 @@
 // replace kalimat dengan str_replace()
 // $kalimat = "Nama saya adalah";
 // echo str_replace("Nama","Hai",$kalimat);
-jhj
 ?>
