@@ -24,6 +24,10 @@
 // echo strlen($kalimat);
 
 // str_word_count() untuk menghitung jumlah kalimat
+// $kalimat = "Nama saya adalah";
+// echo str_word_count($kalimat);
+
+// Membalik kalimat dengan strrev()
 $kalimat = "Nama saya adalah";
-echo str_word_count($kalimat);
+echo strrev($kalimat);
 ?>
